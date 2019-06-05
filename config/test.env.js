@@ -7,5 +7,5 @@ module.exports = {
   NODE_ENV: '"testEnvironment"',
   ENV_CONFIG: '"test"',
   // API_ROOT: '"/base"',
-  API_ROOT: '"http://dhup.test.jiedaibao.com"'
+  API_ROOT: '"http://aaa.com"'
 }

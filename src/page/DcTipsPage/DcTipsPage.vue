@@ -9,7 +9,7 @@ export default {
   name: 'DcTipsPage',
   data () {
     return {
-      msg: '代偿提示页面'
+      msg: '示页面'
     }
   }
 }
